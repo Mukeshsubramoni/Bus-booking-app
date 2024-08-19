@@ -1,0 +1,11 @@
+{
+    "bus" : [
+        {
+        "name": "Sundara Travels",
+        "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+        "location": "Chennai - Nagercoil",
+        "isAvailabe": true,
+        "totalTickets": 10
+        }
+    ]
+}

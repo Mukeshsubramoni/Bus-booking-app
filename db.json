@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "typicode"
+    },
+    {
+      "name": "test",
+      "email": "test1@gmail.com",
+      "password": "12345678",
+      "id": 2
+    }
+  ],
+  "bus": [
+    {
+      "id": 1,
+      "name": "Sundara Travels 1",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Nagercoil",
+      "isAvailabe": true,
+      "AvalableTickets": 10,
+      "bookedSeat": []
+    },
+    {
+      "id": 2,
+      "name": "Sundara Travels 2",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Banglore",
+      "isAvailabe": true,
+      "AvalableTickets": 10,
+      "bookedSeat": []
+    },
+    {
+      "id": 3,
+      "name": "Sundara Travels 3",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Madurai",
+      "isAvailabe": true,
+      "AvalableTickets": 0,
+      "bookedSeat": []
+    },
+    {
+      "id": 4,
+      "name": "Sundara Travels 4",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Trichy",
+      "isAvailabe": true,
+      "AvalableTickets": 10,
+      "bookedSeat": []
+    },
+    {
+      "id": 5,
+      "name": "Sundara Travels 5",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Tirunelveli",
+      "isAvailabe": true,
+      "AvalableTickets": 10,
+      "bookedSeat": []
+    },
+    {
+      "id": 6,
+      "name": "Sundara Travels 6",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Coimbatore",
+      "isAvailabe": true,
+      "AvalableTickets": 0,
+      "bookedSeat": []
+    },
+    {
+      "id": 7,
+      "name": "Sundara Travels 7",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Nagercoil",
+      "isAvailabe": true,
+      "AvalableTickets": 10,
+      "bookedSeat": []
+    },
+    {
+      "id": 8,
+      "name": "Sundara Travels 8",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Trivandrum",
+      "isAvailabe": true,
+      "AvalableTickets": 10,
+      "bookedSeat": []
+    },
+    {
+      "id": 9,
+      "name": "Sundara Travels 9",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Tanjore",
+      "isAvailabe": true,
+      "AvalableTickets": 10,
+      "bookedSeat": []
+    },
+    {
+      "id": 10,
+      "name": "Sundara Travels 10",
+      "image": "https://t4.ftcdn.net/jpg/00/15/53/79/360_F_15537925_5qUqgBbDSQHCI5DeP7M0z88ouNIHdeKY.jpg",
+      "location": "Chennai - Tirupathi",
+      "isAvailabe": true,
+      "AvalableTickets": 10,
+      "bookedSeat": []
+    }
+  ]
+}
